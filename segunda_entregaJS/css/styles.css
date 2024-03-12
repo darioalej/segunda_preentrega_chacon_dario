@@ -1,0 +1,22 @@
+div {
+	font-family: sans-serif;
+	padding: 8px;
+}
+
+.alumno {
+	font-size: 1.2em;
+	color: white;
+}
+
+.nota {
+	border: 1px dotted gray;
+	font-size: 2.2em;
+}
+
+.aprobado {
+	background-color: green;
+}
+
+.desaprobado {
+	background-color: red;
+}
